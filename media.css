@@ -1,0 +1,17 @@
+@media (max-width: 750px), (max-width: 412px) {
+	.main_acc {
+		margin-left: 30px;
+	}
+	span:hover {
+		border: 2px solid lightgreen;
+		padding: 10px 20px;
+		border-radius: 30px;
+	}
+	.line_hor > hr {
+		top: 70px;
+		width: 75%;
+	}
+	.main_back {
+		max-height: 1200px;
+	}
+}
